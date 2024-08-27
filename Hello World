@@ -1,2 +1,4 @@
 cd path/to/hello-world
 git init
+cd .git
+ls -l
